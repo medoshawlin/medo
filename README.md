@@ -1,2 +1,2 @@
 # PseudoParser
-A parser for OIGCSE Pseudocode (WIP).
+A parser for IGCSE Pseudocode (WIP).
